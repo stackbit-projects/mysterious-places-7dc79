@@ -28,7 +28,7 @@
                 "label": "",
                 "url": "/contact",
                 "style": "primary",
-                "new_window": true
+                "new_window": false
             }
         ]
     },
